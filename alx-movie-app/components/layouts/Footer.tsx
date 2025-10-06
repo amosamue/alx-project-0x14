@@ -28,7 +28,7 @@ const Footer: React.FC = () => {
         </div>
       </div>
       <div className="mt-8 text-center text-sm text-gray-400">
-        <p>&copy; 2024 CineSeek. All rights reserved.</p>
+        &copy; 2024 CineSeek. All rights reserved.
       </div>
     </footer>
   );
